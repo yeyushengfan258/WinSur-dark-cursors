@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter912" x="-.2595" y="-.22323" width="1.519" height="1.4464" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.3023422"/>
+  </filter>
+ </defs>
+ <path d="m14.974 6.0012a1.0001 1.0001 0 0 0-0.89648 0.61328l-5.0098 12.002a1.0001 1.0001 0 0 0 1.1172 1.3672l4.8164-0.96289 4.8379 0.96289a1.0001 1.0001 0 0 0 1.1172-1.3691l-5.0332-12.002a1.0001 1.0001 0 0 0-0.94922-0.61133zm0.0293 3.5898 3.3809 8.0625-3.1895-0.63281a1.0001 1.0001 0 0 0-0.39062 0l-3.168 0.63281z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter912)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m15 7-5.0106 12.002 5.0106-1 5.0331 1z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m15 7-5.0106 12.002 5.0106-1 5.0331 1z" fill="#151515" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="a-3-3" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.64999976"/>
+  </filter>
+  <filter id="filter879" x="-.14484" y="-.10243" width="1.2897" height="1.2049" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.68281724"/>
+  </filter>
+ </defs>
+ <g transform="translate(-1.6368 .40678)">
+  <g transform="translate(1.6368 -.40678)">
+   <path d="m6.8609 5.0998a1.0001 1.0001 0 0 0-0.98438 1v14a1.0001 1.0001 0 0 0 1.7617 0.64648l3.6934-4.3477 4.8555 0.01563a1.0001 1.0001 0 0 0 0.71094-1.707l-9.3145-9.3145a1.0001 1.0001 0 0 0-0.72266-0.29297zm1.0156 3.4141 5.8926 5.8926-2.8965-0.0098a1.0001 1.0001 0 0 0-0.76562 0.35352l-2.2305 2.627z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter879)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m5.9844 4a1.0001 1.0001 0 0 0-0.98438 1v14a1.0001 1.0001 0 0 0 1.7617 0.64648l3.6934-4.3477 4.8555 0.01563a1.0001 1.0001 0 0 0 0.71094-1.707l-9.3145-9.3145a1.0001 1.0001 0 0 0-0.72266-0.29297zm1.0156 3.4141 5.8926 5.8926-2.8965-0.0098a1.0001 1.0001 0 0 0-0.76562 0.35352l-2.2305 2.627z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m6 5v14l3.9929-4.703 5.3216 0.01749z" fill-rule="evenodd"/>
+   <rect x="-.93555" y="1" width="24" height="24" fill="none" opacity=".2"/>
+  </g>
+  <g transform="translate(1.4402 .88136)">
+   <circle cx="14.845" cy="22.989" r="6.5" filter="url(#a-3-3)" opacity=".25"/>
+   <circle cx="14.845" cy="22.989" r="6.5" fill="#fff"/>
+   <path d="m14.282 17.498c-2.7734 0.2815-4.9375 2.6503-4.9375 5.4958 0 3.0353 2.4624 5.4958 5.5 5.4958s5.5-2.4605 5.5-5.4958-2.4624-5.4958-5.5-5.4958c-0.18985 0-0.37761-0.019-0.5625 0z" fill="#3296ff"/>
+   <g transform="translate(-25.655 .98888)" fill="#fff" fill-rule="evenodd">
+    <rect x="36" y="21.5" width="8" height="1" ry="0" style="paint-order:stroke fill markers"/>
+    <rect transform="matrix(.70711 -.70711 -.70711 -.70711 0 0)" x="11.263" y="-47.376" width="5" height=".99999" ry="0" style="paint-order:stroke fill markers"/>
+    <rect transform="rotate(45)" x="42.376" y="-16.263" width="5" height=".99999" ry="0" style="paint-order:stroke fill markers"/>
+   </g>
+  </g>
+ </g>
+</svg>
